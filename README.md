@@ -1,6 +1,8 @@
 # OvaLauncher
 
-![Frame 78](https://github.com/ArtemPodloboshnikov/OvaLauncher/assets/44748102/c5716d80-39e9-4140-afbf-286d13223ab3)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/ArtemPodloboshnikov/OvaLauncher/assets/44748102/c5716d80-39e9-4140-afbf-286d13223ab3)" />
+</p>
 
 A game launcher for indie developers
 
